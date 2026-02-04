@@ -58,14 +58,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanpuhedu/tanpuhedu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanpuhedu/tanpuhedu/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tanpuhedu/tanpuhedu/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&reversal=false&text=%22fail%20fast,%20fail%20forward,%20fail%20faster%22&fontSize=35&fontColor=adebb3&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
